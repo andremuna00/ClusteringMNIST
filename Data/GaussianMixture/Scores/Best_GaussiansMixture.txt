@@ -1,0 +1,1 @@
+Best rand score: 0.9040897185461738, PCA n_components: 26, k: 15

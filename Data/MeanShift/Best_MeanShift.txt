@@ -1,0 +1,2 @@
+Best bandwidth:  9.273144247624229
+Best rand score: 0.9080764847717147, PCA n_components: 200, k: 5
