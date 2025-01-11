@@ -27,6 +27,7 @@ The following clustering methods are used:
 <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/6ec1535b-d889-4dcc-a905-02e8e8f66926" alt="image">
 </div>
+
 ## 📉 Dimensionality Reduction
 
 To improve performance and analyze the effect of dimensionality, Principal Component Analysis (PCA) is applied, reducing dimensionality from 2 to 200. The impact on accuracy and learning time is evaluated.
