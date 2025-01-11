@@ -34,6 +34,7 @@ To improve performance and analyze the effect of dimensionality, Principal Compo
 <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/d11dde8d-5165-45db-825d-a9a34f399360" alt="image">
 </div>
+
 ## 🚀 Usage Instructions
 
 ### Requirements
